@@ -6,7 +6,7 @@ public class Pilha {
     }
 
     public void empilhar(Information info){
-        pilha.addPrimeiro(info);
+        pilha.AddUltimo(info);
     }
 
     public void remover(){
